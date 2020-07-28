@@ -1,2 +1,7 @@
-# ValueIteration
-EE5121 - Convex Optimization Term Paper
+# Policy Iteration
+EE5121 - Convex Optimization, Term Paper Code
+There are two folders - part 1 and part 2.
+The code in each folder solve the two variants of the problem mentioned in the term paper.
+To run the code, just open Matlab to the corresponding folder and run the "value.m" matlab file.
+The graphs of the optimal policy will be displayed once the code is finished running.
+The code is quite self explanatory.
